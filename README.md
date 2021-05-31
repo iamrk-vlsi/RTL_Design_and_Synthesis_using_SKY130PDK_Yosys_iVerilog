@@ -6,8 +6,8 @@ This repo is to document the 5day "RTL Design and Synthesis using Verilog and Sk
 - [Timing libs hierarchical vs flat synthesis and efficient flop coding styles](https://github.com/iamrk-vlsi/RTL_Design_and_Synthesis_using_SKY130PDK_Yosys_iVerilog/blob/main/README.md#Timing-libs-hierarchical-vs-flat-synthesis-and-efficient-flop-coding-styles)
 - [Combinational and sequential optmizations](#Combinational-and-sequential-optmizations)
 - [GLS blocking vs non blocking and Synthesis Simulation mismatch](https://github.com/iamrk-vlsi/RTL_Design_and_Synthesis_using_SKY130PDK_Yosys_iVerilog/blob/main/README.md#GLS-blocking-vs-non-blocking-and-Synthesis-Simulation-mismatch) 
-- [If, case, for loop and for generate](https://github.com/iamrk-vlsi/RTL_Design_and_Synthesis_using_SKY130PDK_Yosys_iVerilog/blob/main/README.md#Day-5)
-- [Acknowledgements.](https://github.com/iamrk-vlsi/RTL_Design_and_Synthesis_using_SKY130PDK_Yosys_iVerilog/blob/main/README.md#Acknowledgements)
+- [If case for loop and for generate](https://github.com/iamrk-vlsi/RTL_Design_and_Synthesis_using_SKY130PDK_Yosys_iVerilog/blob/main/README.md#If-case-for-loop-and-for-generate)
+- [Acknowledgements](https://github.com/iamrk-vlsi/RTL_Design_and_Synthesis_using_SKY130PDK_Yosys_iVerilog/blob/main/README.md#Acknowledgements)
 
 # Introduction to Verilog RTL design and Synthesis
 - We were introducted to concepts of RTL design, Testbench.
