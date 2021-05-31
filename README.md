@@ -11,6 +11,7 @@
 
 # Introduction to Verilog RTL design and Synthesis
 <img src="D1/Labs/Lab1_Setup_vsdflow.JPG">
+
 ## *Summary*
 - We were introducted to concepts of RTL design, Testbench.
 - Setup of Sky130 libraries and related toolchain.
