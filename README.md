@@ -2,14 +2,14 @@
 This repo is to document the 5day "RTL Design and Synthesis using Verilog and Sky130 library" which was conducted by VLSI System Design Corp.
 
 # Table of Contents
-- [Day 1](#Day-1)
+  * [ Introduction to Verilog RTL design and Synthesis](https://github.com/iamrk-vlsi/RTL_Design_and_Synthesis_using_SKY130PDK_Yosys_iVerilog/edit/main/README.md#Introduction-to-Verilog-RTL-design-and-Synthesis)
 - [Day 2](#Day-2)
 - [Day 3](#Day-3)
 - [Day 4](#Day-4) 
 - [Day 5](#Day-5)
 - [Acknowledgements.](#Acknowledgements)
 
-# Day 1 Introduction to Verilog RTL design and Synthesis
+# Introduction to Verilog RTL design and Synthesis
 - We were introducted to concepts of RTL design, Testbench.
 - Setup of Sky130 libraries and related toolchain.
 - iVerilog and GTKwave were used as Simulator and graphic waveform simulation tools, respectively.
