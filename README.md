@@ -2,7 +2,7 @@
 This repo is to document the 5day "RTL Design and Synthesis using Verilog and Sky130 library" which was conducted by VLSI System Design Corp.
 
 # Table of Contents
-  * [ Introduction to Verilog RTL design and Synthesis](https://github.com/iamrk-vlsi/RTL_Design_and_Synthesis_using_SKY130PDK_Yosys_iVerilog/edit/main/README.md#Introduction-to-Verilog-RTL-design-and-Synthesis)
+  * [ Introduction to Verilog RTL design and Synthesis](https://github.com/iamrk-vlsi/RTL_Design_and_Synthesis_using_SKY130PDK_Yosys_iVerilog/blob/main/README.md#Introduction-to-Verilog-RTL-design-and-Synthesis)
 - [Day 2](#Day-2)
 - [Day 3](#Day-3)
 - [Day 4](#Day-4) 
