@@ -28,7 +28,7 @@
 ## *Summary*
 - We were introducted to concepts of RTL design, Testbench.
 - Setup of Sky130 libraries and related toolchain.
-- iVerilog and GTKwave were used as Simulator and graphic waveform simulation tools, respectively.
+- IVerilog and GTKwave were used as Simulator and graphic waveform simulation tools, respectively.
 - Labs were done , which can be found [here](https://github.com/iamrk-vlsi/RTL_Design_and_Synthesis_using_SKY130PDK_Yosys_iVerilog/tree/main/D1/Labs)
 
 # Timing libs, hierarchical vs flat synthesis and efficient flop coding styles  
