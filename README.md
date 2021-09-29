@@ -66,4 +66,4 @@
 
 # Acknowledgements
 - [Kunal Ghosh](https://github.com/kunalg123), Co-founder (VSD Corp. Pvt. Ltd)
-- [Shon Taware](https://github.com/ShonTaware), Intern (Chipspirit)
+- [Shon Taware](https://github.com/ShonTaware), RTL Design Engineer (Chipspirit)
